@@ -1,2 +1,4 @@
-# relatorio_oit
-Relatório da OIT
+# Relatórios Internacionais
+
+Relatório OIT e do Observatório do Mercosul
+
